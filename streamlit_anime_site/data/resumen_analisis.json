@@ -1,0 +1,43 @@
+{
+    "dataset": {
+        "total_animes": 19931,
+        "score_mean": 6.53962661591968,
+        "score_median": 6.52,
+        "year_range": "1961-2027",
+        "total_genres": 21,
+        "total_studios": 1174
+    },
+    "top_genres": [
+        "Comedy",
+        "Fantasy",
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Drama",
+        "Romance",
+        "Hentai",
+        "Supernatural",
+        "Slice of Life"
+    ],
+    "top_studios": [
+        "add some",
+        "Toei Animation",
+        "Sunrise",
+        "J.C.Staff",
+        "TMS Entertainment",
+        "Madhouse",
+        "Production I.G",
+        "Studio Deen",
+        "OLM",
+        "Studio Pierrot"
+    ],
+    "correlations": {
+        "score_vs_members": 0.4622629616539896,
+        "score_vs_favorites": 0.33066966163879646
+    },
+    "files_generated": {
+        "images": 13,
+        "interactive": 1,
+        "animations": 3
+    }
+}
